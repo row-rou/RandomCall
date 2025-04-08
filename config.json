@@ -1,0 +1,18 @@
+{
+  "theme": {
+    "main": "light",
+    "simple": "light",
+    "style": "classic"
+  },
+  "simple_mode": {
+    "width": 320,
+    "height": 200,
+    "opacity": 255,
+    "bg_color": "#ffffff"
+  },
+  "random": {
+    "min_speed": 50,
+    "max_speed": 500,
+    "duration": 3000
+  }
+}
